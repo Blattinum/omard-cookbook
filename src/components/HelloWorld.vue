@@ -83,12 +83,10 @@
         >
       </li>
       <li>
-        <a
-          href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
-          rel="noopener"
-          >awesome-vue</a
-        >
+        <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a>
+      </li>
+      <li>
+        <a href="https://google.com" target="_blank" rel="noopener">google</a>
       </li>
     </ul>
   </div>
